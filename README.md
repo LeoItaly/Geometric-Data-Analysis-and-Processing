@@ -1,6 +1,6 @@
 # Geometric Data Analysis and Processing
 
-This repository contains all the exercises and additional training exercises developed throughout the Computer Vision course. Each topic focuses on a different aspect of computer vision, providing reading materials, lectures, exercises, and visual solutions.
+This repository contains all the exercises and additional training exercises developed throughout the course. Each topic focuses on a different aspect of computer vision, providing reading materials, lectures, exercises, and visual solutions.
 
 ## Table of Contents
 
